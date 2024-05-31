@@ -1,0 +1,2 @@
+0 Con máscara
+1 Sin máscara
